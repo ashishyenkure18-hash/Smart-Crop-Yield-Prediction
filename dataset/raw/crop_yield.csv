@@ -1,0 +1,7 @@
+﻿crop,region,area_ha,rainfall_mm,temperature_c,fertilizer_kg_ha,yield_kg_ha
+Wheat,Pune,120.5,650.0,24.5,110.0,3420.0
+Rice,Pune,85.0,1180.0,27.8,95.0,4150.0
+Maize,Nashik,150.0,540.0,26.2,125.0,3890.0
+Soybean,Nagpur,210.0,890.0,28.1,70.0,1980.0
+Cotton,Aurangabad,175.0,610.0,29.4,100.0,1640.0
+Sugarcane,Kolhapur,95.0,1420.0,26.9,180.0,78500.0

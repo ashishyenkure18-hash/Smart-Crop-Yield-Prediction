@@ -1,0 +1,48 @@
+{
+    "dataset_name": "crop_yield.csv",
+    "total_rows": 6,
+    "total_columns": 7,
+    "column_names": [
+        "crop",
+        "region",
+        "area_ha",
+        "rainfall_mm",
+        "temperature_c",
+        "fertilizer_kg_ha",
+        "yield_kg_ha"
+    ],
+    "data_types": {
+        "crop": "object",
+        "region": "object",
+        "area_ha": "float64",
+        "rainfall_mm": "float64",
+        "temperature_c": "float64",
+        "fertilizer_kg_ha": "float64",
+        "yield_kg_ha": "float64"
+    },
+    "missing_values": {
+        "crop": 0,
+        "region": 0,
+        "area_ha": 0,
+        "rainfall_mm": 0,
+        "temperature_c": 0,
+        "fertilizer_kg_ha": 0,
+        "yield_kg_ha": 0
+    },
+    "duplicate_records": 0,
+    "missing_expected_columns": [
+        "Crop",
+        "Crop_Year",
+        "Season",
+        "State",
+        "Area",
+        "Production",
+        "Annual_Rainfall",
+        "Fertilizer",
+        "Pesticide",
+        "Yield"
+    ],
+    "crop_count": null,
+    "state_count": null,
+    "year_range": null
+}

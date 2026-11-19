@@ -1,0 +1,13 @@
+
+.venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# Raw datasets may be large
+# Keep downloaded datasets locally
+
+# Temporary files
+*.log
+.DS_Store
